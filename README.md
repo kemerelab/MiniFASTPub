@@ -10,4 +10,5 @@ Analysis code for the Miniscope paper. See https://github.com/jjuneau1/MiniFAST 
 
 `scikit-video` : Make sure to use the conda-forge channel
 
-`dask`
+`scipy`
+
